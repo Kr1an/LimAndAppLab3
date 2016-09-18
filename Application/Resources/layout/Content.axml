@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:background="@android:color/background_light">
+    <FrameLayout
+        android:minWidth="25px"
+        android:layout_weight="75"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="20px"
+        android:id="@+id/fragmentContainer"
+        android:layout_margin="5px"
+        android:background="@android:drawable/editbox_dropdown_light_frame" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_weight="25"
+        android:id="@+id/linearLayout2"
+        android:layout_height="0px"
+        android:layout_marginTop="5px"
+        android:background="@android:drawable/bottom_bar">
+        <radialprogress.RadialProgressView
+            android:id="@+id/progressView"
+            android:layout_width="200px"
+            min_value="0"
+            max_value="100"
+            progress_type="big"
+            hide_label="false"
+            progress_color="#FF00FF"
+            android:layout_margin="20dp"
+            android:layout_height="200px"
+            android:foregroundGravity="center"
+            android:layout_gravity="center"
+            android:padding="25px" />
+        <TextView
+            android:text="Text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/textView1"
+            android:gravity="center"
+            android:textSize="30dp" />
+    </LinearLayout>
+</LinearLayout>

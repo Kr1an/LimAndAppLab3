@@ -1,0 +1,36 @@
+Application.Content, Application;md5d9bd52cc8fc11e80f784c2a26449778e.Content
+Application.Content, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d9bd52cc8fc11e80f784c2a26449778e.Content
+Application.Content;md5d9bd52cc8fc11e80f784c2a26449778e.Content
+application.Content;md5d9bd52cc8fc11e80f784c2a26449778e.Content
+Application.MainActivity, Application;md5d9bd52cc8fc11e80f784c2a26449778e.MainActivity
+Application.MainActivity, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d9bd52cc8fc11e80f784c2a26449778e.MainActivity
+Application.MainActivity;md5d9bd52cc8fc11e80f784c2a26449778e.MainActivity
+application.MainActivity;md5d9bd52cc8fc11e80f784c2a26449778e.MainActivity
+Application.MenuActivity, Application;md5d9bd52cc8fc11e80f784c2a26449778e.MenuActivity
+Application.MenuActivity, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d9bd52cc8fc11e80f784c2a26449778e.MenuActivity
+Application.MenuActivity;md5d9bd52cc8fc11e80f784c2a26449778e.MenuActivity
+application.MenuActivity;md5d9bd52cc8fc11e80f784c2a26449778e.MenuActivity
+Application.OptionActivity, Application;md5d9bd52cc8fc11e80f784c2a26449778e.OptionActivity
+Application.OptionActivity, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d9bd52cc8fc11e80f784c2a26449778e.OptionActivity
+Application.OptionActivity;md5d9bd52cc8fc11e80f784c2a26449778e.OptionActivity
+application.OptionActivity;md5d9bd52cc8fc11e80f784c2a26449778e.OptionActivity
+Application.Fragments.AddOption, Application;md57314832981c5a89023eefec45424166b.AddOption
+Application.Fragments.AddOption, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57314832981c5a89023eefec45424166b.AddOption
+Application.Fragments.AddOption;md57314832981c5a89023eefec45424166b.AddOption
+application.fragments.AddOption;md57314832981c5a89023eefec45424166b.AddOption
+Application.Fragments.All, Application;md57314832981c5a89023eefec45424166b.All
+Application.Fragments.All, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57314832981c5a89023eefec45424166b.All
+Application.Fragments.All;md57314832981c5a89023eefec45424166b.All
+application.fragments.All;md57314832981c5a89023eefec45424166b.All
+Application.Fragments.BaseFragment, Application;md57314832981c5a89023eefec45424166b.BaseFragment
+Application.Fragments.BaseFragment, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57314832981c5a89023eefec45424166b.BaseFragment
+Application.Fragments.BaseFragment;md57314832981c5a89023eefec45424166b.BaseFragment
+application.fragments.BaseFragment;md57314832981c5a89023eefec45424166b.BaseFragment
+Application.Fragments.Favorite, Application;md57314832981c5a89023eefec45424166b.Favorite
+Application.Fragments.Favorite, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57314832981c5a89023eefec45424166b.Favorite
+Application.Fragments.Favorite;md57314832981c5a89023eefec45424166b.Favorite
+application.fragments.Favorite;md57314832981c5a89023eefec45424166b.Favorite
+RadialProgress.RadialProgressView, RadialProgress.Android;md565ae71dbe3b466a414b8046441055195.RadialProgressView
+RadialProgress.RadialProgressView, RadialProgress.Android, Version=1.0.1.0, Culture=neutral, PublicKeyToken=null;md565ae71dbe3b466a414b8046441055195.RadialProgressView
+RadialProgress.RadialProgressView;md565ae71dbe3b466a414b8046441055195.RadialProgressView
+radialprogress.RadialProgressView;md565ae71dbe3b466a414b8046441055195.RadialProgressView
